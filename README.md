@@ -66,6 +66,9 @@ Master's in Finance from Université Paris II Panthéon-Assas (ranked 1st in cla
 |---|---|---|---|
 | 26 | [Market making](26-market-making) | Avellaneda-Stoikov quotes, inventory risk, risk-aversion frontier | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/26-market-making/market_making.ipynb) |
 | 27 | [Volatility trading](27-volatility-trading) | Variance swap replication, convexity, volatility risk premium, short-vol strategies | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/27-volatility-trading/volatility_trading.ipynb) |
+| 28 | [FX options and the smile](28-fx-options-vanna-volga) | Garman-Kohlhagen, delta conventions, ATM DNS, risk reversals and butterflies, Vanna-Volga smile | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/28-fx-options-vanna-volga/fx_options.ipynb) |
+| 29 | [Optimal execution](29-optimal-execution) | Almgren-Chriss trajectories, TWAP and VWAP, cost-risk frontier, 20,000 simulated executions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/29-optimal-execution/optimal_execution.ipynb) |
+| 30 | [Pairs trading](30-pairs-trading-kalman) | Engle-Granger, half-life, Kalman hedge ratio, out-of-sample backtest with costs on 30 pairs | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/30-pairs-trading-kalman/pairs_trading.ipynb) |
 
 ## How to view and run
 - **Read:** open any project folder, then its `.ipynb` notebook. GitHub shows the code, explanations and charts with all outputs.
