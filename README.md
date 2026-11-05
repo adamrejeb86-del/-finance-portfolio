@@ -61,6 +61,12 @@ Master's in Finance from Université Paris II Panthéon-Assas (ranked 1st in cla
 | 24 | [Fund reporting automation](24-fund-reporting-automation) | PDF factsheets and Excel packs for a fund range, rule-based commentary | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/24-fund-reporting-automation/fund_reporting.ipynb) |
 | 25 | [AI finance agent](25-ai-finance-agent) | Claude tool use, validated finance tools, guardrails, audit trail, evaluation harness | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/25-ai-finance-agent/ai_finance_agent.ipynb) |
 
+### Trading floor: quant sales and trading
+| # | Project | Highlights | Run |
+|---|---|---|---|
+| 26 | [Market making](26-market-making) | Avellaneda-Stoikov quotes, inventory risk, risk-aversion frontier | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/26-market-making/market_making.ipynb) |
+| 27 | [Volatility trading](27-volatility-trading) | Variance swap replication, convexity, volatility risk premium, short-vol strategies | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/27-volatility-trading/volatility_trading.ipynb) |
+
 ## How to view and run
 - **Read:** open any project folder, then its `.ipynb` notebook. GitHub shows the code, explanations and charts with all outputs.
 - **Run live:** click **Open in Colab**, then *Runtime > Run all*. The first cell downloads the project code, so nothing needs installing.
