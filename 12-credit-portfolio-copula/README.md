@@ -1,5 +1,7 @@
 # 12 · Credit Portfolio Risk: Gaussian Copula, Basel Capital and CDO Tranches
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/12-credit-portfolio-copula/credit_portfolio_copula.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/12-credit-portfolio-copula/credit_portfolio_copula.ipynb)
+
 **Simulates the loss distribution of a 500-loan corporate book with the one-factor Gaussian copula (Vasicek), computes credit VaR and economic capital, compares them with the Basel IRB formula, and prices CDO tranches as a function of correlation.**
 
 `Python` `NumPy` `SciPy` · Credit portfolio models · Basel IRB · Structured credit

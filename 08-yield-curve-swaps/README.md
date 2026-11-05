@@ -1,5 +1,7 @@
 # 08 · Yield Curve Bootstrapping, Swaps and Bond Risk
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/08-yield-curve-swaps/yield_curve_swaps.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/08-yield-curve-swaps/yield_curve_swaps.ipynb)
+
 **Builds a discount curve from deposits and par swap rates, fits Nelson-Siegel-Svensson, values a 10-year swap with its parallel and key-rate DV01s, and computes bond yield, duration and convexity.**
 
 `Python` `NumPy` `SciPy` · Fixed income · Interest rate swaps · Rates risk

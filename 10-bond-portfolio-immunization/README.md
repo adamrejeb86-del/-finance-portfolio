@@ -1,5 +1,7 @@
 # 10 · Asset-Liability Management: Immunising a Pension Liability
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/10-bond-portfolio-immunization/bond_portfolio_immunization.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/10-bond-portfolio-immunization/bond_portfolio_immunization.ipynb)
+
 **Hedges 40 years of pension payments with four bond strategies (duration matching, Redington immunisation, key-rate matching, cash-flow matching) and stresses each one with parallel, slope and curvature moves of the yield curve.**
 
 `Python` `NumPy` `SciPy` · ALM · Duration & convexity · Linear programming

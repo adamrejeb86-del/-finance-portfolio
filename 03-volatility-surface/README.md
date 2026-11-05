@@ -1,5 +1,7 @@
 # 03 · Volatility Surface: Heston, SVI and Calibration
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/03-volatility-surface/volatility_surface.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/03-volatility-surface/volatility_surface.ipynb)
+
 **Models the implied volatility surface with the two standard desk tools: the Heston stochastic-volatility model, priced by Fourier inversion, and SVI smiles with a butterfly-arbitrage check. Then calibrates Heston back to the whole surface.**
 
 `Python` `NumPy` `SciPy` · Stochastic volatility · Fourier pricing · Calibration

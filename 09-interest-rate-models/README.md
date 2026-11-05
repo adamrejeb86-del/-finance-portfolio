@@ -1,5 +1,7 @@
 # 09 · Interest Rate Models: Hull-White, Caps and Swaptions
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/09-interest-rate-models/interest_rate_models.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/09-interest-rate-models/interest_rate_models.ipynb)
+
 **Implements the one-factor Hull-White model: an exact fit to today's curve, closed-form caplets and Jamshidian swaptions validated by Monte Carlo, and calibration to market cap volatilities quoted in normal (Bachelier) terms.**
 
 `Python` `NumPy` `SciPy` · Short-rate models · Rates options · Calibration

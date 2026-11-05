@@ -1,5 +1,7 @@
 # 11 · Credit Risk: CDS Curves and the Merton Model
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/11-credit-risk-cds-merton/credit_risk_cds_merton.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/11-credit-risk-cds-merton/credit_risk_cds_merton.ipynb)
+
 **Bootstraps default probabilities from a CDS curve, prices a standard-coupon CDS with its upfront, risky PV01 and CS01, then infers default risk from the share price with the Merton structural model, and compares both views.**
 
 `Python` `NumPy` `SciPy` · Credit derivatives · Default probabilities · Structural models

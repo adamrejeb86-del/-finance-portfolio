@@ -1,5 +1,7 @@
 # 07 · Convertible Bond Pricer (Tsiveriotis-Fernandes)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/07-convertible-bond/convertible_bond.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/07-convertible-bond/convertible_bond.ipynb)
+
 **Prices a convertible bond on a binomial tree that splits its value into an equity part (discounted at the risk-free rate) and a credit-risky cash part (discounted at the risk-free rate plus the issuer's spread), with issuer calls and holder puts.**
 
 `Python` `NumPy` · Convertible bonds · Credit risk · Binomial trees

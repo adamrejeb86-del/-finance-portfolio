@@ -1,5 +1,7 @@
 # 02 · Phoenix Autocall Pricer (Worst-of, Monte Carlo)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/02-autocall-pricer/autocall_pricer.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/02-autocall-pricer/autocall_pricer.ipynb)
+
 **Prices the structured product most sold to French retail and private-banking clients, explains its risks and solves for the coupon a bank can offer.**
 
 `Python` `NumPy` · Monte Carlo · Structured products · Structuring

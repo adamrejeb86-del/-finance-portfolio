@@ -1,5 +1,7 @@
 # 05 · Structuring Retail Notes: Capital Protection and Reverse Convertibles
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/05-structured-notes/structured_notes.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/05-structured-notes/structured_notes.ipynb)
+
 **Breaks structured notes into a bond and options, prices each building block, and solves for the participation rate or coupon an issuer can offer after fees and funding.**
 
 `Python` `NumPy` `SciPy` · Structuring · Barrier options · Issuer funding

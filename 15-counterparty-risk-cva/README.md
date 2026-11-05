@@ -1,5 +1,7 @@
 # 15 · Counterparty Risk: Exposure Simulation and CVA of an Interest Rate Swap
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/15-counterparty-risk-cva/counterparty_risk_cva.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/15-counterparty-risk-cva/counterparty_risk_cva.ipynb)
+
 **Simulates future interest rates with Hull-White, revalues a €100m 10-year swap on 20,000 paths, builds EE and PFE profiles, measures the effect of netting and collateral, and computes CVA, DVA, the CVA charge to the client and the impact of wrong-way risk.**
 
 `Python` `NumPy` · Counterparty credit risk · XVA · Exposure simulation

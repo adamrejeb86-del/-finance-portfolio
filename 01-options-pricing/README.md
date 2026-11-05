@@ -1,5 +1,7 @@
 # 01 · Vanilla Option Pricing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/01-options-pricing/options_pricing.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/01-options-pricing/options_pricing.ipynb)
+
 **Black-Scholes pricer, analytical Greeks, implied-volatility solver and binomial tree for American options, each one checked against the others.**
 
 `Python` `NumPy` `SciPy` · Derivatives pricing · Risk sensitivities

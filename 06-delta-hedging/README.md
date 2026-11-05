@@ -1,5 +1,7 @@
 # 06 · Delta Hedging and P&L Attribution
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/06-delta-hedging/delta_hedging.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/06-delta-hedging/delta_hedging.ipynb)
+
 **Simulates a trader who sells a call and delta hedges it. Measures the hedging error, shows what happens when realised volatility beats implied, explains the P&L with gamma and theta, and finds the best rebalancing frequency once transaction costs are counted.**
 
 `Python` `NumPy` · Hedging · Greeks · Volatility trading

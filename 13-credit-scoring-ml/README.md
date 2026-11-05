@@ -1,5 +1,7 @@
 # 13 · Credit Scoring: Regulatory Scorecard vs Machine Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/13-credit-scoring-ml/credit_scoring.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/13-credit-scoring-ml/credit_scoring.ipynb)
+
 **Builds a probability-of-default model for 30,000 loan applications, twice: a Weight-of-Evidence logistic scorecard with a points table, and a gradient-boosting model. Then validates both the way a bank's model risk team would.**
 
 `Python` `pandas` `scikit-learn` · PD models · Model validation · Explainability

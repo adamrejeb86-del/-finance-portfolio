@@ -1,5 +1,7 @@
 # 04 · Exotic Options by Monte Carlo, with Variance Reduction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/04-exotic-options-monte-carlo/exotic_options.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/04-exotic-options-monte-carlo/exotic_options.ipynb)
+
 **Prices Asian, barrier and lookback options by simulation, checks each one against a closed-form benchmark, and cuts the Monte Carlo error by 30 to 50 times with control variates and quasi-Monte Carlo.**
 
 `Python` `NumPy` `SciPy` · Monte Carlo · Quasi-Monte Carlo · Path-dependent options

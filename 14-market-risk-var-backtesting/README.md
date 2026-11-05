@@ -1,5 +1,7 @@
 # 14 · Market Risk: VaR Model Backtesting and Stress Testing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/14-market-risk-var-backtesting/market_risk_var_backtesting.ipynb) [![View on nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/adamrejeb86-del/-finance-portfolio/blob/main/14-market-risk-var-backtesting/market_risk_var_backtesting.ipynb)
+
 **Runs four VaR models (parametric, historical, EWMA, filtered historical simulation) on a €100m multi-asset portfolio over ten years, and puts them through the tests a regulator applies: Kupiec, Christoffersen, the Basel traffic light, the Acerbi-Szekely ES test, then historical and reverse stress tests.**
 
 `Python` `NumPy` `pandas` `SciPy` · Market risk · Model validation · Basel / FRTB
