@@ -48,6 +48,19 @@ Master's in Finance from Université Paris II Panthéon-Assas (ranked 1st in cla
 | 19 | [Systematic strategy backtester](19-systematic-strategy-backtester) | Trend and momentum strategies with no look-ahead, costs, crisis alpha, Deflated Sharpe Ratio | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/19-systematic-strategy-backtester/systematic_strategy_backtester.ipynb) |
 | 20 | [Real estate fund model](20-real-estate-fund-model) | NAV projection, LTV/ICR covenants, stress grid, liquidation strategies tested across markets | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/20-real-estate-fund-model/real_estate_fund_model.ipynb) |
 
+### Corporate finance and private equity
+| # | Project | Highlights | Run |
+|---|---|---|---|
+| 21 | [LBO model](21-lbo-model) | Sources and uses, debt schedule with cash sweep, IRR and MoIC, value bridge, Excel export | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/21-lbo-model/lbo_model.ipynb) |
+| 22 | [DCF valuation & comparables](22-dcf-valuation) | WACC, FCFF DCF, Monte Carlo, reverse DCF, trading comps, football field | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/22-dcf-valuation/dcf_valuation.ipynb) |
+
+### Automation and AI
+| # | Project | Highlights | Run |
+|---|---|---|---|
+| 23 | [Trade reconciliation (EMIR)](23-trade-reconciliation) | UTI and economic matching, tolerant field checks, severity, Excel break report, 200k trades in under a second | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/23-trade-reconciliation/trade_reconciliation.ipynb) |
+| 24 | [Fund reporting automation](24-fund-reporting-automation) | PDF factsheets and Excel packs for a fund range, rule-based commentary | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/24-fund-reporting-automation/fund_reporting.ipynb) |
+| 25 | [AI finance agent](25-ai-finance-agent) | Claude tool use, validated finance tools, guardrails, audit trail, evaluation harness | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamrejeb86-del/-finance-portfolio/blob/main/25-ai-finance-agent/ai_finance_agent.ipynb) |
+
 ## How to view and run
 - **Read:** open any project folder, then its `.ipynb` notebook. GitHub shows the code, explanations and charts with all outputs.
 - **Run live:** click **Open in Colab**, then *Runtime > Run all*. The first cell downloads the project code, so nothing needs installing.
