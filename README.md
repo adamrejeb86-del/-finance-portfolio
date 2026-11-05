@@ -30,6 +30,15 @@ Master's in Finance from Université Paris II Panthéon-Assas (ranked 1st in cla
 | 09 | [Interest rate models](09-interest-rate-models) | Hull-White fitted to the curve, caps and Jamshidian swaptions, calibration to normal vols |
 | 10 | [ALM & immunisation](10-bond-portfolio-immunization) | Duration, Redington, key-rate and cash-flow matching of a pension liability under curve stresses |
 
+### Credit and risk management
+| # | Project | Highlights |
+|---|---|---|
+| 11 | [CDS & Merton model](11-credit-risk-cds-merton) | Hazard-rate bootstrapping, standard-coupon CDS upfront and CS01, structural model, credit spread puzzle |
+| 12 | [Credit portfolio & CDO tranches](12-credit-portfolio-copula) | Gaussian and t copulas, credit VaR vs Basel IRB capital, concentration risk, tranche spreads vs correlation |
+| 13 | [Credit scoring: scorecard vs ML](13-credit-scoring-ml) | WoE/IV, points scorecard, gradient boosting, Gini, calibration, master scale, PSI |
+| 14 | [VaR backtesting & stress tests](14-market-risk-var-backtesting) | Four VaR models, Kupiec, Christoffersen, Basel traffic light, ES backtest, reverse stress test |
+| 15 | [Counterparty risk & CVA](15-counterparty-risk-cva) | Hull-White exposure simulation, EE/PFE, netting, collateral, CVA/DVA, wrong-way risk |
+
 ## Run locally
 ```bash
 git clone https://github.com/adamrejeb86-del/-finance-portfolio.git
